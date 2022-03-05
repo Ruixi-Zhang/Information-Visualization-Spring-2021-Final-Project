@@ -2,6 +2,7 @@
 
 ![Final Look of the Project](https://github.com/ian-Liaozy/Information-Visualization-Spring-2021-Final-Project/blob/da477b9315da62e73baffe61ee95f825f99da7da/Screen%20Shot%202021-05-25%20at%205.46.43%20PM.png)
 
+Click [here](https://ruixi-zhang.github.io/Information-Visualization-Spring-2021-Final-Project/) to visit our website!
 Click [here](https://docs.google.com/presentation/d/1Q_JxkJXG_1RIvNT8WEpvI7sMdg-jkijkDlptKd4CkVc/edit?usp=sharing) to see the project's presentation!
 
 ### _Overview_
